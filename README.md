@@ -10,6 +10,6 @@ It is just USB-OTG. Pins are from top to bottom:
 5. ?
 6. OTG (short to GND)
 
-Pins are Pogo-pins from Alexpress.
+Pins are Pogo-pins from Aliexpress.
 
 <img src=kuva.png>
