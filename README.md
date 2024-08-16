@@ -1,7 +1,7 @@
 # Ulefone-Usmart-connector
-Ulefone 19T has strange USB-connector on side.
+Ulefone 19T has strange USMART-connector on side.
 
-Pins are from top to bottom:
+It is just USB-OTG. Pins are from top to bottom:
 
 1. +5V
 2. GND 
