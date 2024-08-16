@@ -9,3 +9,5 @@ Pins are from top to bottom:
 4. D-
 5. ?
 6. OTG (short to GND)
+
+<img src=kuva.png>
