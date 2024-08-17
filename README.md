@@ -12,4 +12,6 @@ It is just USB-OTG. Pins are from top to bottom:
 
 Pins are Pogo-pins from Aliexpress.
 
+<img src=kuva2.png>
+
 <img src=kuva.png>
